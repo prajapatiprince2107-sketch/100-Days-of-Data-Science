@@ -1,0 +1,16 @@
+Invoice_ID,Branch,Category,Quantity,Unit_Price,Payment
+INV001,A,Electronics,2,500,Cash
+INV002,B,Groceries,5,100,E-wallet
+INV003,A,Clothing,3,250,Credit Card
+INV004,C,Groceries,4,150,Cash
+INV005,B,Electronics,1,800,Credit Card
+INV006,A,Groceries,6,120,E-wallet
+INV007,C,Clothing,2,300,Cash
+INV008,B,Groceries,3,200,Credit Card
+INV009,A,Electronics,1,1000,E-wallet
+INV010,C,Groceries,5,90,Cash
+INV011,B,Clothing,4,350,E-wallet
+INV012,A,Groceries,2,180,Credit Card
+INV013,C,Electronics,3,600,Cash
+INV014,B,Groceries,7,110,E-wallet
+INV015,A,Clothing,2,400,Credit Card
